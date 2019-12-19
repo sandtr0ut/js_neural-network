@@ -9,11 +9,16 @@ const trainingData = data.map(item => ({
 }));
 
 network.train(trainingData, {
-  iterations: 2000
+  iterations: 1000
 });
 
-// const output = network.run("The code has some bugs");  //Category: software
+// ================== INPUT DATA ====================
 
-const output = network.run("I need a new graphics card");
+const inputString = "I love when you refactor my code, said nobody ever";
+const inputString2 = "I need a new graphics card";
 
-console.log(`Category: ${output}`);
+// ==================================================
+
+const output = network.run(inputString);
+
+console.log(`Input String: ${inputString} \nCategory: ${output}`);
