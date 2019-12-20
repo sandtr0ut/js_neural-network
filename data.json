@@ -12,6 +12,10 @@
         "category": "hardware"
     },
     {
+        "text": "power supply unit",
+        "category": "hardware"
+    },
+    {
         "text": "the drive has a 2TB capacity",
         "category": "hardware"
     },
@@ -28,11 +32,19 @@
         "category": "hardware"
     },
     {
+        "text": "psu",
+        "category": "hardware"
+    },
+    {
         "text": "drive",
         "category": "hardware"
     },
     {
         "text": "it needs more memory",
+        "category": "hardware"
+    },
+    {
+        "text": "graphics card",
         "category": "hardware"
     },
     {
@@ -69,6 +81,26 @@
     },
     {
         "text": "buy me a laptop",
+        "category": "hardware"
+    },
+    {
+        "text": "I love it when you refactor my code, said nobody ever",
+        "category": "software"
+    },
+    {
+        "text": "We need to hire a developer",
+        "category": "software"
+    },
+    {
+        "text": "We have the best dev team in town",
+        "category": "software"
+    },
+    {
+        "text": "I need a new graphics card",
+        "category": "hardware"
+    },
+    {
+        "text": "My new cpu is wicked fast",
         "category": "hardware"
     },
     {
